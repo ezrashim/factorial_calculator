@@ -12,6 +12,7 @@
   $ git clone https://github.com/ezrashim/factorial_calculator.git
   ```
 4. Run the calculator by running below command in `factorial` directory:
+
   ```
   $ ruby factorial.rb
   ```
