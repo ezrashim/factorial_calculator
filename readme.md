@@ -1,7 +1,5 @@
 # Factorial Calculator
 
-
-
 ## How to Run the Calculator
 
 1. Open terminal (for Mac and Linux users) or the command prompt (for Windows users).
