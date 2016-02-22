@@ -1,4 +1,4 @@
-# Facotrial Calculator
+# Factorial Calculator
 
 
 
